@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Indian Monuments - NFT Collection(demo)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a platform where users can buy NFTs of the monuments they like.
+It's available on Testnet only.
 
-## Available Scripts
+## Tech Stack used are:
 
-In the project directory, you can run:
+Frontend - ReactJS
 
-### `npm start`
+For API - Thirdweb
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Wallet - Metamask
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Network - Rinkeby Testnet
 
-### `npm test`
+##
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The data is fetched using API call provided by ThirdWeb.
 
-### `npm run build`
+Users can get a detailed view of the selected Punk by just clicking on it.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## The UI glance is shown below.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Screenshot (22)](https://user-images.githubusercontent.com/71761106/154055773-f39d42ac-2b67-4fa2-b2b8-d34fdde6509a.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (23)](https://user-images.githubusercontent.com/71761106/154056114-16a0cac8-d946-4962-b826-112dae56c49a.png)
 
-### `npm run eject`
+![Screenshot (24)](https://user-images.githubusercontent.com/71761106/154054591-bb03f464-0bec-44ae-8115-90df9abe0364.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# NOTE: It's just for Project purpose
